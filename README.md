@@ -1,6 +1,6 @@
 # RankNet
 
-Implements the well-known pairwise-based learning to rank algorithm proposed in [1] using Keras. Check out [this work](https://arxiv.org/pdf/1901.02001.pdf) (Sec. 3.1.2) for more information.
+Implements the well-known pairwise-based learning to rank algorithm proposed in [1] using [Keras](https://keras.rstudio.com/). Check out [this work](https://arxiv.org/pdf/1901.02001.pdf) (Sec. 3.1.2) for more information.
 
 ### References
 
