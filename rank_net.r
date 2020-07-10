@@ -1,7 +1,7 @@
 # Implements the well-known pairwise-based learning to rank algorithm proposed by Burges et al., ICML-2005
 
 # input
-	# X_train: matrix of training instances
+	# X_train: matrix of training instances (one instance per row)
 	# Y_train: ranking of the instances in the training data
 	# net_params: list of network parameters:
 		# n_hidden, n_units, batch_normalization, epochs, batch_size, callbacks, validation_split, optimizer_lr, regularizer_l2_l,
